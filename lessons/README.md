@@ -11,7 +11,7 @@
 
 - 2.1 (Lesson 1) Hello, World
 - 2.2 (Lesson 2) Add two numbers together
-- 2.3 (Lesson 3) Logic, addition program asing for the operation
+- 2.3 (Lesson 3) Logic, addition program asking for the operation
 - 2.4 (Lesson "??") Rock, paper, scissors
 - 2.5 (Lesson 4) Exercise 2 from the list (even or odd)
 
@@ -30,5 +30,8 @@
 
 - 4.1 Functions, runes/char codes -- enigma part 1
 - 4.2 Functions -- user input
+- Libraries - https://www.tutorialspoint.com/dart_programming/dart_programming_libraries.htm
 
-- 
+## Web Services
+- 5.1 Postman
+- 5.2 Dart Shelf
