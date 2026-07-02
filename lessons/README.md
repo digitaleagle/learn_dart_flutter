@@ -10,10 +10,11 @@
 ## Chapter 2: Basics
 
 - [2.1 (Lesson 1) Hello, World](Chapter%202/Lesson%201-Hello%20World)
-- 2.2 (Lesson 2) Add two numbers together
-- 2.3 (Lesson 3) Logic, addition program asking for the operation
-- 2.4 (Lesson "??") Rock, paper, scissors
-- 2.5 (Lesson 4) Exercise 2 from the list (even or odd)
+- [2.2 (Lesson 2) Variables](Chapter%202/Lesson%202-Variables)
+- 2.3 (Lesson 3) Add two numbers together
+- 2.4 (Lesson 4) Logic, addition program asking for the operation
+- 2.5 (Lesson 5) Rock, paper, scissors
+- 2.6 (Lesson 6) Exercise 2 from the list (even or odd)
 
 ## Chapter 3: Loops
 
