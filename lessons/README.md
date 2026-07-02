@@ -2,7 +2,7 @@
 
 ## Chapter 1: Prepare and Setup
 
-- 1.1 Understanding Git and GitHub
+- [1.1 Understanding Git and GitHub](Chapter%201/Lesson%201-Git)
 - 1.2 Programing and PseudoCode intro
 - 1.3 Understanding Dart and Flutter
 - 1.4 Installing Dart and Flutter
