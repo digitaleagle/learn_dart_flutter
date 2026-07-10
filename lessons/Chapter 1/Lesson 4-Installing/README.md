@@ -31,6 +31,11 @@ If you want more detail or want to be more hands on, you can start at the main i
 
 [Full Install Instructions Page](https://docs.flutter.dev/install)
 
+## Extra Information
+
+Here's an article that I sent Kent for setting up Dart in Android Studio:
+[o7planning: Run your first Dart example in Android Studio](https://o7planning.org/12831/run-your-first-dart-example-in-android-studio)
+
 # Exercise
 
 Install Flutter and either Android Studio or Visual Studio Code.
